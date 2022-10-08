@@ -38,7 +38,7 @@ git clone https://github.com/zhdhdismas/shao_wm.git 或者直接下载
 
 前端 下载配置node.js 通过命令 npm install -> npm run build -> npm run start/npm run dev进行启动
 
-注意: 需要创建redis stream (redis的消息队列) 通过命令 xgroup create sss ger 0 MKSTREAM 否则会无法启动一直报错
+注意: 需要创建redis stream (redis的消息队列) 通过命令 xgroup create sss gers 0 MKSTREAM 否则会无法启动一直报错
 
 gers为组名,sss为队列名,详情见VoucherOrderServiceImpl
 
