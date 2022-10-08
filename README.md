@@ -28,7 +28,7 @@ node: 8.16.0
 
 redis: 6.2.6
 
-mysql: 8.26
+mysql: 8.0.27
 
 IDE: IDEA 2021.1,VScode
 
