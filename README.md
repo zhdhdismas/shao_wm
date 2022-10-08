@@ -22,9 +22,13 @@ springboot,vue 2.0,element-ui,springsecurity,jwt,mybatis-plus,mybatis,redis,mysq
 
 ### 开发环境
 jdk: 17
+
 node: 8.16.0
+
 redis: 6.2.6
+
 mysql: 8.26
+
 IDE: IDEA 2021.1,VScode
 
 ### 项目启动
