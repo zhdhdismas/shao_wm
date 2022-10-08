@@ -40,6 +40,6 @@ git clone https://github.com/zhdhdismas/shao_wm.git 或者直接下载
 
 注意: 需要创建redis stream (redis的消息队列) 通过命令 xgroup create sss ger 0 MKSTREAM 否则会无法启动一直报错
 
-sss为组名,ger为队列名,详情见VoucherOrderServiceImpl
+ger为组名,sss为队列名,详情见VoucherOrderServiceImpl
 
 
