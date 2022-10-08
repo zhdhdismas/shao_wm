@@ -19,3 +19,22 @@
 springboot,vue 2.0,element-ui,springsecurity,jwt,mybatis-plus,mybatis,redis,mysql
 ### 集成第三方技术
 支付宝沙箱支付，高德地图API，oss
+
+### 开发环境
+jdk: 17
+node: 8.16.0
+redis: 6.2.6
+mysql: 8.26
+IDE: IDEA 2021.1,VScode
+
+### 项目启动
+git clone https://github.com/zhdhdismas/shao_wm.git 或者直接下载
+后端在主目录下找到ShaoWmApplication类来启动
+
+前端 下载配置node.js 通过命令 npm install -> npm run build -> npm run start/npm run dev进行启动
+
+注意: 需要创建redis stream (消息队列) 通过命令 xgroup create sss ger 0 MKSTREAM 否则会无法启动一直报错
+
+sss为组名,ger为队列名,详情见VoucherOrderServiceImpl
+
+
