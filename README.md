@@ -16,7 +16,7 @@
 
 秒杀抢购优惠券, 发表博客，个人关注，个人朋友圈，地图添加商户，签到，日历记事本
 ### 技术栈
-springboot,vue 2.0,element-ui,springsecurity,jwt,mybatis-plus,mybatis,redis,mysql
+springboot,vue 2.0,element-ui,echarts,springsecurity,jwt,mybatis-plus,redis,mysql
 ### 集成第三方技术
 支付宝沙箱支付，高德地图API，oss
 
