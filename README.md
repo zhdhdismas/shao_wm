@@ -6,6 +6,7 @@
 ![image](https://github.com/zhdhdismas/README_IMG/blob/main/Snipaste_2022-10-08_14-28-27.png)
 ![image](https://github.com/zhdhdismas/README_IMG/blob/main/Snipaste_2022-10-08_14-27-02.png)
 ![image](https://github.com/zhdhdismas/README_IMG/blob/main/Snipaste_2022-10-08_14-29-16.png)
+![image](https://github.com/zhdhdismas/README_IMG/blob/main/charts.png)
 ### 功能
 主要功能:
 1. 客户点菜，付款
