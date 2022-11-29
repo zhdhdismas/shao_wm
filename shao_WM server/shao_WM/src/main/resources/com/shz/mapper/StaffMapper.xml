@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.shz.mapper.StaffMapper">
+    <select id="getStaffByNameTotalCount" resultType="java.lang.Integer">
+        select count(*)
+        from staff s,user u,level l,position p where s.uid=u.uid and s.lid=l.id and s.pid=p.id and u.username like concat('%',#{username},'%')
+    </select>
+    <select id="getStaffByName" resultType="com.shz.entity.Staff">
+        select s.*,u.username,u.phone,u.email,l.levelName,p.name
+        from staff s,user u,level l,position p where s.uid=u.uid and s.lid=l.id and s.pid=p.id and u.username like concat('%',#{username},'%')
+        order by s.updateTime desc limit #{start},#{count}
+    </select>
+</mapper>

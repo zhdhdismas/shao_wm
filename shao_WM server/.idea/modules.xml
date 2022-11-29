@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mail_server/mail_server.iml" filepath="$PROJECT_DIR$/mail_server/mail_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shao_WM/shao_WM.iml" filepath="$PROJECT_DIR$/shao_WM/shao_WM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shao_WM server.iml" filepath="$PROJECT_DIR$/.idea/shao_WM server.iml" />
+    </modules>
+  </component>
+</project>

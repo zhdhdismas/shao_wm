@@ -1,0 +1,56 @@
+{
+  "name": "model",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "amap": "^1.0.7",
+    "axios": "^0.21.1",
+    "core-js": "^3.8.3",
+    "default-passive-events": "^2.0.0",
+    "echarts": "^5.4.0",
+    "element-ui": "^2.15.10",
+    "font-awesome": "^4.7.0",
+    "html2canvas": "^1.4.1",
+    "js-file-download": "^0.4.12",
+    "jsonwebtoken": "^8.5.1",
+    "less-loader": "^4.1.0",
+    "mavon-editor": "^2.10.4",
+    "moment": "^2.29.4",
+    "net": "^1.0.2",
+    "qrcodejs2": "^0.0.2",
+    "sockjs": "^0.3.24",
+    "sockjs-client": "^1.5.0",
+    "stompjs": "^2.3.3",
+    "turndown": "^7.1.1",
+    "uuid": "^9.0.0",
+    "v-viewer": "^1.6.4",
+    "vue": "^2.6.14",
+    "vue-cropper": "^0.5.8",
+    "vue-echarts": "^6.2.3",
+    "vue-infinite-scroll": "^2.0.2",
+    "vue-puzzle-vcode": "^1.1.9",
+    "vue-router": "^3.6.5",
+    "vue-session": "^1.0.0",
+    "vuex": "^3.4.0",
+    "ws": "^8.11.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
