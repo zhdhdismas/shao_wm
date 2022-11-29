@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5e1b639-cb49-40fe-a2d7-769c8152bebc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HJ8OHL684qBdzMl6h8o4twNsJW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\毕设1.0\shao_WM server" />
+      <recent name="D:\毕设1.0\shao_WM server\mail_server\src\main\resources" />
+      <recent name="D:\毕设1.0\shao_WM server\mail_server\src\main\java\com\shz" />
+      <recent name="D:\毕设1.0\shao_WM server\mail_server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\毕设1.0\shao_WM server\mail_server\src\main\resources" />
+      <recent name="D:\毕设1.0\shao_WM server\shao_WM\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.shz" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shz" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShaoWmApplication">
+    <configuration name="MailApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.mail.MailApplication" />
+      <module name="yeb-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shz.MailServerApplication" />
+      <module name="mail_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shz.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailServerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mail_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shz" />
+      <option name="MAIN_CLASS_NAME" value="com.shz.MailServerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodTestUtils.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shao_WM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shz" />
+      <option name="MAIN_CLASS_NAME" value="com.shz.MethodTestUtils" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodTestUtils.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shao_WM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shz" />
+      <option name="MAIN_CLASS_NAME" value="com.shz.MethodTestUtils" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mail_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shz.MailServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShaoWmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shao_WM" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shz.ShaoWmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MailApplication" />
+      <item itemvalue="Application.MailServerApplication" />
+      <item itemvalue="JUnit.MailServerApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.MethodTestUtils.test" />
+      <item itemvalue="JUnit.MethodTestUtils.test2" />
+      <item itemvalue="Spring Boot.MailServerApplication" />
+      <item itemvalue="Spring Boot.ShaoWmApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MethodTestUtils.test2" />
+        <item itemvalue="JUnit.MailServerApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.MethodTestUtils.test" />
+        <item itemvalue="Application.MailServerApplication" />
+        <item itemvalue="Application.MailApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5e1b639-cb49-40fe-a2d7-769c8152bebc" name="Changes" comment="" />
+      <created>1667991795052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667991795052</updated>
+      <workItem from="1667991800355" duration="2209000" />
+      <workItem from="1667994992169" duration="3887000" />
+      <workItem from="1667998996150" duration="5184000" />
+      <workItem from="1668005686867" duration="1529000" />
+      <workItem from="1668043585101" duration="28995000" />
+      <workItem from="1668133444745" duration="1104000" />
+      <workItem from="1668164300460" duration="4298000" />
+      <workItem from="1668217187466" duration="13318000" />
+      <workItem from="1668300845228" duration="16511000" />
+      <workItem from="1668391763175" duration="2317000" />
+      <workItem from="1668399517036" duration="3554000" />
+      <workItem from="1668492320661" duration="13430000" />
+      <workItem from="1668576473466" duration="1283000" />
+      <workItem from="1668599083701" duration="2434000" />
+      <workItem from="1668678828633" duration="674000" />
+      <workItem from="1669474201542" duration="2503000" />
+      <workItem from="1669633841114" duration="1497000" />
+      <workItem from="1669692275153" duration="4865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.messaging.support.GenericMessage" memberName="headers" />
+        <PinnedItemInfo parentTag="org.springframework.messaging.support.GenericMessage" memberName="payload" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
