@@ -36,7 +36,7 @@ IDE: IDEA 2021.1,VScode
 git clone https://github.com/zhdhdismas/shao_wm.git 或者直接下载
 后端在主目录下找到ShaoWmApplication类来启动
 
-前端 下载配置node.js 通过命令 npm install -> npm run start/npm run dev进行启动
+前端 下载配置node.js 通过命令 npm install -> npm run serve进行启动
 
 注意: 需要创建redis stream (redis的消息队列) 通过命令 xgroup create sss gers 0 MKSTREAM 否则会无法启动一直报错
 
